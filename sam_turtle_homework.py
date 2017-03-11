@@ -24,7 +24,7 @@ def draw_triangle():
     window = turtle.Screen()
     window.bgcolor("orange")
 
-    # Turtle setting
+    # Turtle setting function
     alex = turtle.Turtle()
     alex.color("black","green")
     alex.speed(5)
